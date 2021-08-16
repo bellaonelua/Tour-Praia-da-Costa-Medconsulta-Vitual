@@ -1,0 +1,122 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour virtual
+
+### Title
+tour.name = Medconsulta Praia da Costa
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = NOSSO SITE
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.pressedLabel = NOSSO SITE
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = NOSSO SITE
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.pressedLabel = NOSSO SITE
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = AMBIENTES
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = AMBIENTES
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = AMBIENTES
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = AMBIENTES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = UNIDADES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = UNIDADES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = UNIDADES
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = UNIDADES
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = CONSULTÓRIO 6 
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.pressedLabel = CONSULTÓRIO 6 
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = CONSULTÓRIO 6 
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.pressedLabel = CONSULTÓRIO 6 
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = ENDOSCOPIA
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.pressedLabel = ENDOSCOPIA
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.label = ENDOSCOPIA
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.pressedLabel = ENDOSCOPIA
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = PRAIA DA COSTA
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = PRAIA DA COSTA
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = PRAIA DA COSTA
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = PRAIA DA COSTA
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = MESTRE ÁLVARO
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.pressedLabel = METRE AÁLVARO
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.label = MESTRE ÁLVARO
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.pressedLabel = METRE AÁLVARO
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = MOXUARA
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.pressedLabel = MOXUARA
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = MOXUARA
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.pressedLabel = MOXUARA
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = VOLTAR
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.pressedLabel = VOLTAR
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = VOLTAR
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.pressedLabel = VOLTAR
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = CONSULTÓRIO 3 
+Button_2A2C053B_310E_001C_41A2_583DE489828C.pressedLabel = CONSULTÓRIO 3 
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = CONSULTÓRIO 3 
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.pressedLabel = CONSULTÓRIO 3 
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = CONSULTÓRIO 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = CONSULTÓRIO
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = CONSULTÓRIO 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = CONSULTÓRIO
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = CONSULTÓRIO 5
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.pressedLabel = CONSULTÓRIO 5
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = CONSULTÓRIO 5
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.pressedLabel = CONSULTÓRIO 5
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = CONSULTÓRIO 4
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.pressedLabel = CONSULTÓRIO 4
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = CONSULTÓRIO 4
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.pressedLabel = CONSULTÓRIO 4
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = RECEPÇÃO
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.pressedLabel = RECEPÇÃO 
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = RECEPÇÃO
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.pressedLabel = RECEPÇÃO 
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = VOLTAR
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.pressedLabel = VOLTAR
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = VOLTAR
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.pressedLabel = VOLTAR
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.pressedLabel = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = CONSULTÓRIO
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.pressedLabel = CONSULTÓRIO
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_5B358111_413A_0B88_4195_E403598EA49D.label = CORREDOR 2
+panorama_5B4B550A_414A_0B98_41AD_F70D60190599.label = CONSULTÓRIO 5
+panorama_5B535A34_415A_3988_41C3_1D26FA4364EF.label = ENDOSCOPIA
+panorama_5B65087D_4139_FA78_41B0_F4E5FB4BE036.label = RECEPÇÃO
+panorama_5BA0F8C7_414A_1A88_41C4_8C2B7846C9F2.label = CORREDOR
+panorama_5BA127F5_4146_3688_41B3_43E58161ACBD.label = CONSULTÓRIO 7
+panorama_5BA3960E_4146_0998_41B4_4F85894D4087.label = CONSULTÓRIO 3
+panorama_5BA51FFB_4149_F678_41CB_559464D0EAD7.label = CORREDOR
+panorama_5BA7806A_4146_0998_41C9_1C5F82B29525.label = CONSULTÓRIO 6
+panorama_5BB3D320_414A_0F88_41CA_2991BE3EB263.label = CONSULTORIO 4
+panorama_5BB87C02_415A_3988_41C9_DD5E14EA0331.label = ENDOSCOPIA
+panorama_5BD3EEF6_413A_3688_41CD_6E669DCEDD18.label = CONSULTÓRIO 2
+panorama_5BD4815D_413E_0BB8_41B8_3FFB9F48C9E7.label = CORREDOR
+panorama_5BD4CD6C_413E_FB98_41BD_F29E64CCF469.label = CONSULTORIO
+panorama_5CEF926B_413A_0998_41C2_ABEDF7DBF747.label = ENTRADA
+
+## Action
+
+### URL
+LinkBehaviour_5B005F0C_4F65_19D1_41C2_9DD2A96D3F6D.source = https://medconsulta.com.br/
+LinkBehaviour_5B0BEF99_4F65_18F3_41CD_90168CCACC92.source = https://www.google.com/maps?q=Av.+Dr.+Olivio+Lira,+353+-+Praia+da+Costa,+Vila+Velha+-+CEP:+29055-460+Piso+L2+(Na+sa%C3%ADda+do+elevador,+pr%C3%B3ximo+a+loja+Havainas&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjxmIjJ067yAhWNqJUCHT32Dx0Q_AUoAXoECAEQAw
+LinkBehaviour_5B0C4F8F_4F65_18EF_41B5_ADFE933B10E5.source = https://www.google.com/maps/place/Med+Consulta/@-20.3444285,-40.3996553,15z/data=!4m5!3m4!1s0x0:0xc41f5ff0f1a5ff1b!8m2!3d-20.3444285!4d-40.3996553
+LinkBehaviour_5B0C6F94_4F65_18F1_4192_21DBAF9448C4.source = https://www.google.com/maps?q=Av.+Jo%C3%A3o+Pal%C3%A1cio,+300+-+Eurico+Salles,+Serra+-+CEP:+29160-169&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjVkMi1067yAhX-pZUCHb3fCrEQ_AUoAXoECAEQAw
+LinkBehaviour_5B0E2F32_4F65_1831_41B4_B5E713EAE5B6.source = https://www.google.com/maps?q=shopping+praia+da+costa&rlz=1C1GGRV_enBR748BR748&sxsrf=ALeKk01biRabwH0fnC27wluLo9W33lt7TA:1628880190451&gs_lcp=Cgdnd3Mtd2l6EAMYADIOCC4QgAQQxwEQrwEQkwIyCwguEIAEEMcBEK8BMggIABCABBCxAzILCC4QgAQQxwEQrwEyCwguEIAEEMcBEK8BMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgjECc6CgguEMcBEKMCECc6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICC4QsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOggILhCABBCxAzoNCC4QxwEQowIQJxCTAjoHCAAQsQMQQzoECAAQQzoKCC4QxwEQowIQQzoKCC4QxwEQ0QMQQzoNCC4QsQMQxwEQ0QMQQzoNCAAQsQMQgwEQsQMQCjoECAAQCjoOCC4QgAQQsQMQxwEQrwE6DgguELEDEMcBEK8BEJMCOgsILhCxAxDHARCvAToFCAAQsQM6CAgAEIAEEMkDOgsIABCABBCxAxDJA0oECEEYAFClF1irPGCaSWgBcAB4AYABiQSIAYwdkgELMC43LjQuMi4xLjGYAQCgAQGwAQrAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjxws--1q7yAhXfqpUCHdU9B30Q_AUoAXoECAEQAw
+LinkBehaviour_5B0E6F33_4F65_1837_41BF_BB75F43483B3.source = https://www.instagram.com/medconsulta_clinicas/  
+LinkBehaviour_5B0EEF30_4F65_1831_41B7_693377224FAB.source = https://api.whatsapp.com/send?phone=555527996932477
+LinkBehaviour_5C7A3888_417E_3A98_41CA_FA84B37AB223.source = https://api.whatsapp.com/send?phone=555527996932477
+LinkBehaviour_5C8BA065_4EFD_2850_4190_338C62633C76.source = https://www.google.com/maps/place/Med+Consulta/@-20.3444285,-40.3996553,15z/data=!4m5!3m4!1s0x0:0xc41f5ff0f1a5ff1b!8m2!3d-20.3444285!4d-40.3996553
+LinkBehaviour_5CC65962_414A_3B88_418F_A956925D6A07.source = https://www.google.com/maps?q=Av.+Jo%C3%A3o+Pal%C3%A1cio,+300+-+Eurico+Salles,+Serra+-+CEP:+29160-169&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjVkMi1067yAhX-pZUCHb3fCrEQ_AUoAXoECAEQAw
+LinkBehaviour_5D05B36C_417A_0F94_41C3_46CF5F207C7E.source = https://medconsulta.com.br/
+LinkBehaviour_5D5A0F2E_414A_F798_41C3_DC14454F68D3.source = https://www.google.com/maps?q=Av.+Dr.+Olivio+Lira,+353+-+Praia+da+Costa,+Vila+Velha+-+CEP:+29055-460+Piso+L2+(Na+sa%C3%ADda+do+elevador,+pr%C3%B3ximo+a+loja+Havainas&rlz=1C1GGRV_enBR748BR748&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjxmIjJ067yAhWNqJUCHT32Dx0Q_AUoAXoECAEQAw
+LinkBehaviour_5D6446F0_417A_1688_41A9_CD79BA9C5176.source = https://www.google.com/maps?q=shopping+praia+da+costa&rlz=1C1GGRV_enBR748BR748&sxsrf=ALeKk01biRabwH0fnC27wluLo9W33lt7TA:1628880190451&gs_lcp=Cgdnd3Mtd2l6EAMYADIOCC4QgAQQxwEQrwEQkwIyCwguEIAEEMcBEK8BMggIABCABBCxAzILCC4QgAQQxwEQrwEyCwguEIAEEMcBEK8BMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgjECc6CgguEMcBEKMCECc6CwguEIAEELEDEIMBOhEILhCABBCxAxCDARDHARDRAzoICC4QsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOggILhCABBCxAzoNCC4QxwEQowIQJxCTAjoHCAAQsQMQQzoECAAQQzoKCC4QxwEQowIQQzoKCC4QxwEQ0QMQQzoNCC4QsQMQxwEQ0QMQQzoNCAAQsQMQgwEQsQMQCjoECAAQCjoOCC4QgAQQsQMQxwEQrwE6DgguELEDEMcBEK8BEJMCOgsILhCxAxDHARCvAToFCAAQsQM6CAgAEIAEEMkDOgsIABCABBCxAxDJA0oECEEYAFClF1irPGCaSWgBcAB4AYABiQSIAYwdkgELMC43LjQuMi4xLjGYAQCgAQGwAQrAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjxws--1q7yAhXfqpUCHdU9B30Q_AUoAXoECAEQAw
+LinkBehaviour_5DDBAD74_4146_3B88_41C2_6A246415F634.source = https://www.instagram.com/medconsulta_clinicas/  
